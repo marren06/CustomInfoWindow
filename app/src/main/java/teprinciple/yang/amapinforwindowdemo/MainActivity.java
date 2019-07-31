@@ -24,6 +24,8 @@ import teprinciple.yang.amapinforwindowdemo.adapter.InfoWinAdapter;
 import teprinciple.yang.amapinforwindowdemo.entity.Constant;
 import teprinciple.yang.amapinforwindowdemo.utils.CheckPermissionsActivity;
 
+
+//test  git  tag
 public class MainActivity extends CheckPermissionsActivity implements AMap.OnMapTouchListener,
         AMap.OnMarkerClickListener, AMapLocationListener, LocationSource {
 
